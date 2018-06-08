@@ -1,0 +1,4 @@
+name: Example HAX Extend
+type: module
+description: 'Stax (template) and Blox (layouts) Intgration example for the HAX Headless Authoring Experience.'
+core: 8.x
