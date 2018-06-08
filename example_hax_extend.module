@@ -100,7 +100,7 @@ function example_hax_extend_hax_blox() {
 /**
  * Implements hook_hax_stax().
  * 
- * Some of the components used in these layouts aren't installed with HAX and would need to 
+ * Some of the components used in these templates aren't installed with HAX and would need to 
  * be manually installed with the Polymer components in the libraries/webcomponents/polymer
  * directory. See self-check, multiple-choice and license-element on webcomponents.org.
  * bower install --save LRNWebComponents/multiple-choice
